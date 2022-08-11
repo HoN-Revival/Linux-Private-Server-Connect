@@ -27,5 +27,5 @@ exec $exe "$*" -masterserver <masterServer> -webserver <webServer> -messageserve
 To connect to Project Kongor, you can just use this command which is constructed with the appropriate addresses:
 
 ```
-TODO
+exec $exe "$*" -masterserver kongor.online -webserver kongor.online -messageserver kongor.online
 ```
